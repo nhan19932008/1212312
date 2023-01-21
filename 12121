@@ -1,0 +1,2 @@
+jika error curl : (7) Gagal terhubung ke port 127.0.0.1 4040 : Koneksi ditolak masukkan kode dibawah ini
+./ngrok tcp 3389
