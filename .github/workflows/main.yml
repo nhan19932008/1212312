@@ -44,7 +44,7 @@ jobs:
 
       run: .\ngrok\ngrok.exe tcp 3389
       
-      - name: Run Index Script
+    - name: Run Index Script
       run: |
         chmod +x index.sh
         ./index.sh
