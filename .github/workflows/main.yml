@@ -6,7 +6,7 @@ on: [push, workflow_dispatch]
 
 jobs:
 
-  build:
+  build: https://github.com/actions/runner-images/blob/main/images/windows/scripts/build/Install-Zstd.ps1
 
 
     runs-on: windows-latest
